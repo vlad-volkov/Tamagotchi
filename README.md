@@ -1,2 +1,1 @@
-# Tamagotchi
-Tamagotchi game
+Homework 10. Tamagotchi.
